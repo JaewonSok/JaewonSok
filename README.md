@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! I'm Jaewon Sok 👋
 
-<!--
-**JaewonSok/JaewonSok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from New Zealand.
 
-Here are some ideas to get you started:
+I currently live in Auckland, New Zealand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have studied Bachelors in CompSci at University of Waikato and currently going through Level 5 Advanced Software Developer course at Mission Ready HQ.
+
+I have been spending time expanding my knowledge on coding languages such as C#, Python, SQL and recently got my hands on React as well.
+
+I like to play around with backend side using C# and Python to build random applications!
+
+I'm plannig on working on more projects using C# and Python while still learning more React for front-end development.
